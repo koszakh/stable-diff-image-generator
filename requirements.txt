@@ -1,0 +1,13 @@
+django
+djangorestframework
+pymysql
+celery
+pika
+torch
+torchvision
+diffusers
+cryptography
+mysqlclient
+transformers
+hf_xet
+accelerate
