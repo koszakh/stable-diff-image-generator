@@ -11,3 +11,5 @@ mysqlclient
 transformers
 hf_xet
 accelerate
+gunicorn
+python-dotenv

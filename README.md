@@ -1,4 +1,4 @@
-# Image Generation API с Django и Celery в Docker
+# Image Generation API
 
 Этот проект представляет собой API для генерации изображений с использованием Stable Diffusion. Он разработан с использованием фреймворка Django для бэкенда и Celery для асинхронной обработки задач генерации. Все компоненты (Django, Celery, RabbitMQ, MySQL) развернуты в Docker-контейнерах.
 
